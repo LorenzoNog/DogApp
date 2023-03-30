@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Aplicación realizada en funcion de DOG-API. Se consume dicha api para obtener imagenes al azar de distintas razas de animales. Se pueden seleccionar favoritos y navegar a través del sitio en función de sus preferencias. La app fue realizada utilizando nextJs, typescript y tailwind CSS, y forma parte de las pruebas técnicas propuestas por la empresa HelloExtend.
+
+
+##Para correr el proyecto:
 First, run the development server:
 
 ```bash
