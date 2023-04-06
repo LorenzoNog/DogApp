@@ -13,7 +13,7 @@ Proyecto realizado con el objetivo de practicar la implementación de Next-JS y 
 
 Es una aplicación realizada en base a la idea aportada por [@goncy ](https://www.github.com/goncy).
 
-Se trata de una plataforma que consume dogApi para utilizar la información de perros que ésta proporciona y filtrarlas por razas.
+Se trata de una plataforma que consume dogApi para utilizar la información de perros que ésta proporciona. En ella se realiza una diferenciación por razas y además cuenta con una sección de favoritos en la cual se pueden agregar las imágenes al tocar la estrella de la esquina superior derecha.
 
 
 ## Generada con:
