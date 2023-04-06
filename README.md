@@ -1,5 +1,5 @@
 
-# DogApp
+# DogApp🐶
 
 Proyecto realizado con el objetivo de practicar la implementación de Next-JS y Typescript😁👍
 
@@ -30,7 +30,7 @@ Se trata de una plataforma que consume dogApi para utilizar la información de p
 - REACT JS
 
 
-## Depliegue
+## ⚒️ Depliegue
 
 Para desplegar este proyecto necesita:
 
