@@ -1,43 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# DogApp
 
-Aplicación realizada en funcion de DOG-API. Se consume dicha api para obtener imagenes al azar de distintas razas de perros. Se pueden seleccionar favoritos y navegar a través del sitio en función de sus preferencias. La app fue realizada utilizando nextJs, typescript y tailwind CSS, y forma parte de las pruebas técnicas propuestas por la empresa HelloExtend.
+Proyecto realizado con el objetivo de practicar la implementación de Next-JS y Typescript😁👍
 
 
-##Para correr el proyecto:
-First, run the development server:
+## Autor
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [@LorenzoNog](https://www.github.com/LorenzoNog)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## De que se trata?
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Es una aplicación realizada en base a la idea aportada por [@goncy ](https://www.github.com/goncy).
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Se trata de una plataforma que consume dogApi para utilizar la información de perros que ésta proporciona y filtrarlas por razas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Generada con:
 
-To learn more about Next.js, take a look at the following resources:
+- Next-JS 13
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Se utiliza en el:
 
-## Deploy on Vercel
+- JAVASCRIPT
+- CSS
+- TYPESCRIPT
+- TAILWIND CSS
+- REACT JS
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# DogApp-NextJs-Typescript
+## Depliegue
+
+Para desplegar este proyecto necesita:
+
+- Clonar el repositorio mediante 'git clone' + link del mismo.
+- Ubicarte en la carpeta 'DogApp-NextJs-Typescript'.
+- Ejecutar en la consola 'npm install'.
+- Ejecutar en la consola 'npm start'.
