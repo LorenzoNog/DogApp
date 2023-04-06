@@ -35,6 +35,6 @@ Se trata de una plataforma que consume dogApi para utilizar la información de p
 Para desplegar este proyecto necesita:
 
 - Clonar el repositorio mediante 'git clone' + link del mismo.
-- Ubicarte en la carpeta 'DogApp-NextJs-Typescript'.
+- Ubicarte en la carpeta 'DogApp'.
 - Ejecutar en la consola 'npm install'.
 - Ejecutar en la consola 'npm start'.
